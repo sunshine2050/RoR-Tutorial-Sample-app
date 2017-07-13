@@ -13,7 +13,8 @@ gem 'bootstrap-will_paginate'
 gem 'bootstrap-sass', '3.3.7'
 gem 'jquery-rails'
 gem 'rails-controller-testing'
-gem 'bcrypt'
+gem 'bcrypt', '>= 3.1.3'
+
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
