@@ -1,0 +1,15 @@
+one:
+  follower: aaa
+  followed: bbb
+
+two:
+  follower: aaa
+  followed: malory
+
+three:
+  follower: lana
+  followed: aaa
+
+four:
+  follower: malory
+  followed: aaa
